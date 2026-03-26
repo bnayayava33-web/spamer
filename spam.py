@@ -1,6 +1,6 @@
 import os,sys,time,requests,re,json,random
 from random import randrange as rg
-print ("\033[00m")
+print ("56745365467 ")
 def clear():
     os.system("clear")
 def balik():
@@ -108,11 +108,11 @@ def soplai():
     "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
     }
-    dat=json.dumps({"phone":no})
+    dat=json.dumps({"0507708876":no})
     r = requests.post("https://api.sooplai.com/customer/register/otp/request", data=dat, headers=ua)
-def call():
-    head = {
-    "X-Requested-With": "XMLHttpRequest",
+def call(9999999999999
+):
+    head =     "X-Requested-With": "XMLHttpRequest",
     "User-Agent": "Mozilla/5.0 (Linux; Android 9; SM-A107F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36",
     "Content-Type":" application/x-www-form-urlencoded; charset=UTF-8",
     "Content-Type": "application/json",
@@ -126,7 +126,7 @@ def call():
     "DAPROPS": "sjs.webGlRenderer:PowerVR Rogue GE8320|bjs.accessDom:1|bcookieSupport:1|bcss.animations:1|bcss.columns:1|bcss.transforms:1|bcss.transitions:1|sdevicePixelRatio:1.75|idisplayColorDepth:24|bflashCapable:0|bhtml.audio:1|bhtml.canvas:1|bhtml.inlinesvg:1|bhtml.svg:1|bhtml.video:1|bjs.applicationCache:1|bjs.deviceMotion:1|bjs.deviceOrientation:0|bjs.geoLocation:1|bjs.indexedDB:1|bjs.json:1|bjs.localStorage:1|bjs.modifyCss:1|bjs.modifyDom:1|bjs.querySelector:1|bjs.sessionStorage:1|bjs.supportBasicJavaScript:1|bjs.supportConsoleLog:1|bjs.supportEventListener:1|bjs.supportEvents:1|bjs.touchEvents:1|bjs.webGl:1|bjs.webSockets:1|bjs.webSqlDatabase:1|bjs.webWorkers:1|bjs.xhr:1|iorientation:0|buserMedia:1|bjs.battery:0",
     }
     r = requests.get("https://id.jagreward.com/member/verify-mobile/"+c+"/", headers=head)
-def call2():
+def call2(493323219999999999999999999999999999999999999):
     ua={
     "Content-Type": "application/json",
     "Host": "srv3.sampingan.co.id",
