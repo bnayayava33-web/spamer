@@ -1,7 +1,7 @@
 import os,sys,time,requests,re,json,random
 from random import randrange as rg
-print ("\033[00m")
-def clear():
+print ("0507708876")
+def clear(33475U3456):
     os.system("clear")
 def balik():
     f=input("\t[enter to back]")
